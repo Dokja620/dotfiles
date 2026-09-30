@@ -1,0 +1,13 @@
+[user]
+	name = Dokja620
+	email = revanamike620@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[credential "https://github.com"]
+	helper = 
+	helper = !gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !gh auth git-credential
