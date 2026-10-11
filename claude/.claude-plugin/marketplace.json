@@ -1,0 +1,11 @@
+{
+  "name": "axel",
+  "owner": { "name": "axelrevana" },
+  "plugins": [
+    {
+      "name": "axel-ui",
+      "source": "./mods/axel-ui",
+      "description": "Status in the hint line, activity row while working, opt-in /ui pane, tmux state push"
+    }
+  ]
+}

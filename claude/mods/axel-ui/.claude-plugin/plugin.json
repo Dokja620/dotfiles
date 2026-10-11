@@ -1,0 +1,6 @@
+{
+  "name": "axel-ui",
+  "version": "0.1.0",
+  "description": "Status line, live band, tool pane and tmux state push",
+  "types": "./types/index.d.ts"
+}
