@@ -24,4 +24,3 @@ if [ -d ~/.bashrc.d ]; then
 fi
 unset rc
 
-export PATH="$PATH:$HOME/flutter/bin"

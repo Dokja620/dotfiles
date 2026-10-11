@@ -12,4 +12,3 @@ set --export PATH $BUN_INSTALL/bin $PATH
 # opencode
 fish_add_path $HOME/.opencode/bin
 export PATH="$HOME/.local/bin:$PATH"
-set -gx PATH $HOME/flutter/bin $PATH
